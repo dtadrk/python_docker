@@ -1,2 +1,5 @@
 # python_docker
-python in Docker
+
+Based on (docker-library/python)[https://github.com/docker-library/python]
+
+
